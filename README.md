@@ -1,6 +1,9 @@
 # hedblom-segway
 This is the code and driver for a Segway Clone based on JD Warren and Gaston Marzoratti work.
 
+The project is closed but the code can be usefull if you are looking to build one.
+Video of the final result: https://youtu.be/-PH7iTme2_s
+
 
 Erik Hedblom - Sweden 
 
